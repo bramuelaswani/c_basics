@@ -12,9 +12,9 @@ int GetMax(int num1, int num2)
         result = num2;
     }
     return result;
-}
+};
 int main()
 {
-    cout << GetMax(10, 5);
+    cout << GetMax(10, 15);
     return 0;
 }

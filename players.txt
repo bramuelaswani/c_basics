@@ -1,0 +1,3 @@
+1 bucky 55
+2 sera 45
+3 soffie 4.6
