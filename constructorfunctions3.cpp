@@ -17,6 +17,7 @@ public:
 int main()
 {
     Book book1("Harry Poter", "Jk Rowlene", 500);
+    Book book1("Harry Poter", "Jk Rowlene", 500);
 
     Book book2("james milner", "kevin Eims", 700);
 

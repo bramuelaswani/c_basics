@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
     string color, pluralnoun, celebrity;
-    cout << "Enter the color";
+    cout << "Enter the color:";
     getline(cin, color);
-    cout << "Enter the pluralnoun";
+    cout << "Enter the pluralnoun:";
     getline(cin, pluralnoun);
-    cout << "Enter the celebrity";
+    cout << "Enter the celebrity:";
     getline(cin, celebrity);
 
     cout << "roses are" << color << endl;

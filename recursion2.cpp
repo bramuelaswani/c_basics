@@ -13,7 +13,7 @@ int factorialFinder(int x)
 }
 int main()
 {
-    cout << factorialFinder(5);
+    cout << factorialFinder(12);
 
     return 0;
 }
